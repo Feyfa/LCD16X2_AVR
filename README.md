@@ -1,2 +1,6 @@
-# LCD16X2_AVR
-LCD16X2 ATMEGA8A (C++)
+# EXPLANATION
+this project contains code to program lcd 16x2 mode 4 bit and atmega8a with language (c++)
+# SOFTWARE USED
+- Atmel Studio 7    = Code Editors
+- Proteus           = Circuit Simulation  
+
