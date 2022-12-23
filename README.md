@@ -28,6 +28,11 @@ This project contains code to program LCD16x2 mode 4 bit and Atmega8a with langu
 ![Img 11A](Screenshot/11A.png)
 - The code editor is ready to run
 ![Img 12A](Screenshot/12A.png)
+- Click Build, then click Build Solution or you can press F7, then there is a Build succeeded message which means the program has no problems
+![Img 13A](Screenshot/13A.png)
+- After the build solution, open the location of the atmel studio code file, go to debug, a blue hex file will appear. This file will be programmed
+into the microcontroller
+![Img 14A](Screenshot/14A.png)
 
 # HOW TO MAKE A SIMULATION IN PROTEUS
 - Click Open Project
