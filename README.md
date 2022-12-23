@@ -1,5 +1,5 @@
 # EXPLANATION
-This project contains code to program LCD16x2 mode 4 bit and Atmega8a with language (c++)
+This project contains a library to program 4 bit mode LCD16x2 and Atmega8a with (c++) language
 # SOFTWARE USED
 - Atmel Studio 7    = Code Editors
 - Proteus           = Circuit Simulation  
