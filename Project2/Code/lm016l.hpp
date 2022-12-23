@@ -12,9 +12,9 @@
 #include <avr/io.h>
 #include <util/delay.h>
 
-#define LCD_RS 4 //PD4,PB4
-#define LCD_RW 5 //PD5,PB5
-#define LCD_EN 6 //PD6,PB6
+#define LCD_RS 4 //PD4,PB4,P4
+#define LCD_RW 5 //PD5,PB5,P5
+#define LCD_EN 6 //PD6,PB6,P6
 #define SCL_CLOCK  100000
 
 typedef enum{usingPB,usingPD,usingI2C}UsingPort;

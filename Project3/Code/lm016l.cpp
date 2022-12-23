@@ -11,7 +11,7 @@
 #include "lm016l.hpp"
 
 
-//method diluar class
+//method outside the class
 char* IntegerToString(int Value)
 {
 	char buff[255];
