@@ -26,3 +26,5 @@ This project contains code to program LCD16x2 mode 4 bit and Atmega8a with langu
 ![Img 10](Screenshot/10.png)
 - Go to the location of the files that have been downloaded, then select all, then click Add
 ![Img 11](Screenshot/11.png)
+- The code editor is ready to run
+![Img 12](Screenshot/12.png)
