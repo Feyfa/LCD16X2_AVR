@@ -15,7 +15,7 @@ EN = |PB6|PD6|P6|
 
 int main(void)
 {
-	lm016l lcd = lm016l(usingI2C,64);//lcd uses I2C addrres 64
+	lm016l lcd = lm016l(lcdUsingI2C,64);//lcd uses I2C addrres 64
 	lcd.location(0,0);// set location in lcd 16x2 x=0 , y=0
 	lcd.print("ab");// input string
 // 	lcd.print('c');// input char

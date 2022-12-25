@@ -15,7 +15,7 @@ EN = |PB6|PD6|P6|
 
 int main(void)
 {
-	lm016l lcd = lm016l(usingPB);// lcd uses in PB
+	lm016l lcd = lm016l(lcdUsingPB);// lcd uses in PB
 	lcd.location(0,0);// set location in lcd 16x2 x=0 , y=0
 	lcd.print("ab");// input string
 // 	lcd.print('c');// input char
